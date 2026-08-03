@@ -31,7 +31,7 @@
 > ¿Ya tienes el VPS? Entra por SSH y ejecuta:
 >
 > ```bash
-> git clone https://github.com/melgarafael/DeskcommCRM.git
+> git clone https://github.com/Tokenizaa/DeskcommCRM.git
 > cd DeskcommCRM
 > bash hostgator-setup-kit/install.sh
 > ```
@@ -75,7 +75,7 @@ Por debajo, cada evento se convierte en una fila en `event_log` — ningún trig
 
 ```bash
 # 1. Clona
-git clone https://github.com/melgarafael/DeskcommCRM.git
+git clone https://github.com/Tokenizaa/DeskcommCRM.git
 cd DeskcommCRM
 
 # 2. Node 22 + pnpm
@@ -174,9 +174,9 @@ Este proyecto es open source para la comunidad. Toda contribución es bienvenida
 
 ## 🐛 Reportar bugs
 
-Abre un [issue](https://github.com/melgarafael/DeskcommCRM/issues/new/choose) — la plantilla pide lo que necesitamos (entorno, `/api/v1/health`, pasos).
+Abre un [issue](https://github.com/Tokenizaa/DeskcommCRM/issues/new/choose) — la plantilla pide lo que necesitamos (entorno, `/api/v1/health`, pasos).
 
-Para **vulnerabilidades de seguridad**, **NO abras un issue público** — usa el [reporte privado de vulnerabilidades](https://github.com/melgarafael/DeskcommCRM/security/advisories/new). Detalles en [`SECURITY.md`](SECURITY.md).
+Para **vulnerabilidades de seguridad**, **NO abras un issue público** — usa el [reporte privado de vulnerabilidades](https://github.com/Tokenizaa/DeskcommCRM/security/advisories/new). Detalles en [`SECURITY.md`](SECURITY.md).
 
 ---
 
@@ -206,8 +206,8 @@ Para **vulnerabilidades de seguridad**, **NO abras un issue público** — usa e
 
 ## 💬 Comunidad
 
-- **Discusiones:** [GitHub Discussions](https://github.com/melgarafael/DeskcommCRM/discussions)
-- **Issues:** [GitHub Issues](https://github.com/melgarafael/DeskcommCRM/issues)
+- **Discusiones:** [GitHub Discussions](https://github.com/Tokenizaa/DeskcommCRM/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Tokenizaa/DeskcommCRM/issues)
 - **Instagram:** [@melgarafael](https://www.instagram.com/melgarafael)
 - **YouTube:** [youtube.com/@melgarafael](https://www.youtube.com/@melgarafael)
 

@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript)](https://www.typescriptlang.org)
 [![Supabase](https://img.shields.io/badge/Supabase-Postgres%2BAuth%2BStorage-3ecf8e?logo=supabase)](https://supabase.com)
 [![Self-hosted](https://img.shields.io/badge/self--hosted-one%20command-orange)](hostgator-setup-kit/)
-[![CI](https://github.com/melgarafael/DeskcommCRM/actions/workflows/ci.yml/badge.svg)](https://github.com/melgarafael/DeskcommCRM/actions/workflows/ci.yml)
+[![CI](https://github.com/Tokenizaa/DeskcommCRM/actions/workflows/ci.yml/badge.svg)](https://github.com/Tokenizaa/DeskcommCRM/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 [**🧭 Vision**](VISION.md) · [**📘 Setup Guide**](docs/SETUP.md) · [**🏗️ Architecture**](ARCHITECTURE.md) · [**🤝 Contributing**](CONTRIBUTING.md) · [**📋 PRDs**](docs/prd/) · [**🗺️ Roadmap**](#%EF%B8%8F-roadmap)
@@ -32,7 +32,7 @@
 > Already have the VPS? SSH into it and run:
 >
 > ```bash
-> git clone https://github.com/melgarafael/DeskcommCRM.git
+> git clone https://github.com/Tokenizaa/DeskcommCRM.git
 > cd DeskcommCRM
 > bash hostgator-setup-kit/install.sh
 > ```
@@ -76,7 +76,7 @@ Under the hood, every event becomes a row in `event_log` — no database trigger
 
 ```bash
 # 1. Clone
-git clone https://github.com/melgarafael/DeskcommCRM.git
+git clone https://github.com/Tokenizaa/DeskcommCRM.git
 cd DeskcommCRM
 
 # 2. Node 22 + pnpm
@@ -175,9 +175,9 @@ This project is open source for the community. Every contribution is welcome —
 
 ## 🐛 Reporting bugs
 
-Open an [issue](https://github.com/melgarafael/DeskcommCRM/issues/new/choose) — the template asks for what we need (environment, `/api/v1/health`, steps).
+Open an [issue](https://github.com/Tokenizaa/DeskcommCRM/issues/new/choose) — the template asks for what we need (environment, `/api/v1/health`, steps).
 
-For **security vulnerabilities**, **do NOT open a public issue** — use [private vulnerability reporting](https://github.com/melgarafael/DeskcommCRM/security/advisories/new). Details in [`SECURITY.md`](SECURITY.md).
+For **security vulnerabilities**, **do NOT open a public issue** — use [private vulnerability reporting](https://github.com/Tokenizaa/DeskcommCRM/security/advisories/new). Details in [`SECURITY.md`](SECURITY.md).
 
 ---
 
@@ -207,8 +207,8 @@ For **security vulnerabilities**, **do NOT open a public issue** — use [privat
 
 ## 💬 Community
 
-- **Discussions:** [GitHub Discussions](https://github.com/melgarafael/DeskcommCRM/discussions)
-- **Issues:** [GitHub Issues](https://github.com/melgarafael/DeskcommCRM/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Tokenizaa/DeskcommCRM/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Tokenizaa/DeskcommCRM/issues)
 - **Instagram:** [@melgarafael](https://www.instagram.com/melgarafael)
 - **YouTube:** [youtube.com/@melgarafael](https://www.youtube.com/@melgarafael)
 
